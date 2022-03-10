@@ -4,3 +4,4 @@
 3-name contains a script that compiles a c file and creates an executable named cisfun
 4-puts.c contains a script that prints exactly "Programming is like building a multilingual puzzle
 5-prinntf.c contains a script that prints exactly with proper grammar, but the outcome is a piece of art,
+6-size.c contains a script that prints the size of various types on the computer it is compiled and run on
