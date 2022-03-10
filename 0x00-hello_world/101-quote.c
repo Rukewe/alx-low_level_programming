@@ -1,9 +1,9 @@
-#include <studio.h>
+#include <stdio.h>
 #include <unistd.h>
 /**
  * main - Entry point
  * Description: the program writes to stderr.
- * Return: value 1 on success.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
