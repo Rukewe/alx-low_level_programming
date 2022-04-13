@@ -1,1 +1,1 @@
-Functions pointers
+Functions pointers in C programming language.
